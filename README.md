@@ -14,16 +14,19 @@ The function is similar to the ECAS fitting, but instead of a spring like loaded
 You can also access the STL files thru my printables page:  
 https://www.printables.com/@Agsikap3D_2775778
 
-# BOM and Printing Parts:  
-
+## BOM and Printing Parts:  
+```
 1 pc  - WWBMG BOM except for main housing  
-2 pcs - Printed Parts: Extruder main housing & UM2 clips  
+2 pcs - Printed Parts:
+          Extruder main housing
+          UM2 clips  
 1 pc  - UM2 PTFE Adapter  
+```
 
 Voron parts print settings, STL files are already oriented for printing.  
 Material: ASA or ABS recommended
 
-# Installation Notes:
+## Installation Notes:
 1.) Assembly the WWBMG and use the new main body housing.
 1.) Install the UM2 fitting by pressing it to the hole. You can still detach it if necessary, but be careful not breaking the adapter.   
 
