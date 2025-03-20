@@ -17,12 +17,11 @@ https://www.printables.com/@Agsikap3D_2775778
 ## BOM and Printing Parts:  
 ```
 1 pc  - WWBMG BOM except for main housing  
+1 pc  - UM2 PTFE Adapter
 2 pcs - Printed Parts:
-          Extruder main housing
-          UM2 clips  
-1 pc  - UM2 PTFE Adapter  
+        1 - Extruder main housing
+        1 - UM2 clip set  
 ```
-
 Voron parts print settings, STL files are already oriented for printing.  
 Material: ASA or ABS recommended
 
