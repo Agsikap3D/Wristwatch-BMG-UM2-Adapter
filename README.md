@@ -17,9 +17,10 @@ The function is similar to the ECAS fitting, but instead of a spring like loaded
         1 - Extruder main housing
         1 - UM2 clip set  
 ```
-Voron parts print settings.  
-STL files are already oriented for printing.  
-Material: ASA or ABS recommended  
+- Voron parts print settings
+- No supports
+- STL files are already oriented for printing
+- Material: ASA or ABS recommended  
 
 You can also access the STL files thru my printables page:  
 https://www.printables.com/@Agsikap3D_2775778
