@@ -1,6 +1,4 @@
 # Wristwatch-BMG-UM2-Adapter
-The popular BMG extruder with a UM2 PTFE adapter
-
 ![Image](https://github.com/user-attachments/assets/c3d94700-53e7-4319-82ff-a49bcaa7ad6d)
 
 This is a mod for the WWBMG extruder:  
@@ -11,9 +9,6 @@ The function is similar to the ECAS fitting, but instead of a spring like loaded
 
 ![Image](https://github.com/user-attachments/assets/2064d4be-3edf-4c51-ab7c-143e5a17330f)
 
-You can also access the STL files thru my printables page:  
-https://www.printables.com/@Agsikap3D_2775778
-
 ## BOM and Printing Parts:  
 ```
 1 pc  - WWBMG BOM except for main housing  
@@ -22,8 +17,12 @@ https://www.printables.com/@Agsikap3D_2775778
         1 - Extruder main housing
         1 - UM2 clip set  
 ```
-Voron parts print settings, STL files are already oriented for printing.  
-Material: ASA or ABS recommended
+Voron parts print settings.  
+STL files are already oriented for printing.  
+Material: ASA or ABS recommended  
+
+You can also access the STL files thru my printables page:  
+https://www.printables.com/@Agsikap3D_2775778
 
 ## Installation Notes:
 1.) Assemble the WWBMG extruder and use the new main body housing.  
