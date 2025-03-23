@@ -7,10 +7,7 @@ https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_Extruder_BMG
 Allows the use of the cheap UM2 PTFE adapters as an alternative to the ECAS Fitting for securing the PTFE tube.  
 The function is similar to the ECAS fitting, but instead of a spring like loaded grip, we will use clips.
 
-![Image](https://github.com/user-attachments/assets/2064d4be-3edf-4c51-ab7c-143e5a17330f)
-
-Affiliate Links:  
-UM2 Fitting Bore Ø4mm: https://invl.me/clmlsz8  
+![Image](https://github.com/user-attachments/assets/2064d4be-3edf-4c51-ab7c-143e5a17330f)  
 
 ## BOM and Printing Parts:  
 ```
@@ -20,6 +17,9 @@ UM2 Fitting Bore Ø4mm: https://invl.me/clmlsz8
         1 - Extruder main housing
         1 - UM2 clip set  
 ```
+Affiliate Links:  
+UM2 Fitting Bore Ø4mm: https://invl.me/clmlsz8  
+
 - Voron parts print settings
 - No supports
 - STL files are already oriented for printing
