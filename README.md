@@ -10,7 +10,7 @@ The function is similar to the ECAS fitting, but instead of a spring like loaded
 ![Image](https://github.com/user-attachments/assets/2064d4be-3edf-4c51-ab7c-143e5a17330f)
 
 Affiliate Links:  
-UM2 Fitting: https://invl.me/clmlsz8  
+UM2 Fitting Bore Ø4mm: https://invl.me/clmlsz8  
 
 ## BOM and Printing Parts:  
 ```
